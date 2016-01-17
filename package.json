@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-graham",
+  "version": "1.0.0",
+  "description": "ESLint configuration for grahamb",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamb/eslint-config-sfu.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslint-config"
+  ],
+  "author": "Graham Ballantyne <hello@grahamballantyne.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grahamb/eslint-config-sfu/issues"
+  },
+  "homepage": "https://github.com/grahamb/eslint-config-sfu#readme"
+}
