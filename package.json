@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-grahamb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint configuration for grahamb",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grahamb/eslint-config-sfu.git"
+    "url": "git+https://github.com/grahamb/eslint-config-grahamb.git"
   },
   "keywords": [
     "eslint",
@@ -15,7 +15,7 @@
   "author": "Graham Ballantyne <hello@grahamballantyne.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/grahamb/eslint-config-sfu/issues"
+    "url": "https://github.com/grahamb/eslint-config-grahamb/issues"
   },
-  "homepage": "https://github.com/grahamb/eslint-config-sfu#readme"
+  "homepage": "https://github.com/grahamb/eslint-config-grahamb#readme"
 }
