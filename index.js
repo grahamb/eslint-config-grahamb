@@ -120,7 +120,7 @@ module.exports = {
     "no-self-compare": 0,       // disallow comparisons where both sides are exactly the same (off by default)
     "no-sequences": 2,          // disallow use of comma operator
     "no-throw-literal": 0,      // restrict what can be thrown as an exception (off by default)
-    "no-unused-expressions": 1, // disallow usage of expressions in statement position
+    "no-unused-expressions": 2, // disallow usage of expressions in statement position
     "no-void": 0,               // disallow use of void operator (off by default)
     "no-warning-comments": 0,   // disallow usage of configurable warning terms in comments, e.g. TODO or FIXME (off by default)
     "no-with": 2,               // disallow use of the with statement
@@ -145,7 +145,7 @@ module.exports = {
     "no-undef": 2,                    // disallow use of undeclared variables unless mentioned in a /*global */ block
     "no-undef-init": 2,               // disallow use of undefined when initializing variables
     "no-undefined": 2,                // disallow use of undefined variable (off by default)
-    "no-unused-vars": 2,              // disallow declaration of variables that are not used in the code
+    "no-unused-vars": 1,              // disallow declaration of variables that are not used in the code
     "no-use-before-define": 2,        // disallow use of variables before they are defined
 
 
